@@ -1,0 +1,4 @@
+Atividade Extra 2: Sistema de Descarte Ecológico (Foco em Rótulos e Mensagens Informativas)
+Objetivo: Desenvolver uma tela de conscientização ambiental para exercitar o posicionamento de múltiplos componentes gráficos em um layout fluido e a exibição de alertas com títulos customizados.
+
+Crie uma aplicação desktop cuja janela possua o título "EcoPonto Senac" e dimensões de 380x140 pixels, devendo aparecer centralizada para o usuário. Adicione na interface um rótulo informativo com a mensagem: "Selecione para descartar resíduos eletrônicos:" e um botão com o texto "Lixeira de Baterias e Pilhas". Quando o usuário interagir clicando no botão, o sistema deve disparar um alerta (JOptionPane) com o título da caixa de diálogo definido como "Descarte Correto" e o texto da mensagem interna contendo: "Deposite os materiais nos coletores laranjas do saguão principal.".
